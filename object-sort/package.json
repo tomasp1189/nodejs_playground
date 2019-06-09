@@ -1,0 +1,14 @@
+{
+  "name": "object-sort",
+  "version": "1.0.0",
+  "description": "sort and average functions for object lists",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
